@@ -1,23 +1,24 @@
-Flughafen - airport
+Apfelkuchen - Apple Cake
+Baeckerei - Bakery
 Berlin - Berlin
-Raesfeld - Raesfeld 
-Bratwurst - Bratwurst
-Hauptstrasse - Main Road
-Brot - Bread
-Klimaanlage - Air conditioner
-Rammstein - Rammstein 
-Porsche - Porsche
-BMW - BMW 
 Biergarten - Beer Garden
-Ratskeller - Ratskeller
+BMW - BMW 
+Bratwurst - Bratwurst
+Brot - Bread
 Dirndel - Dirndl
+Doener - Doner
+Eltz - Eltz Castle
+Flughafen - airport
+Gebaeck - Pastries
+Hauptstrasse - Main Road
+Hund - Dog
+Klimaanlage - Air conditioner
 Lederhose - Leather Pants
+Mehlhase - Flour Bunny
+Porsche - Porsche
+Raesfeld - Raesfeld 
+Rammstein - Rammstein 
+Ratskeller - Ratskeller
 Schloss - Lock
 wettbewerbsfaehig - Competitive
-Mehlhase - Flour Bunny
-Gebaeck - Pastries
-Baeckerei - Bakery
-Hund - Dog
-Doener - Doner
-Apfelkuchen - Apple Cake
-Eltz - Eltz Castle
+
