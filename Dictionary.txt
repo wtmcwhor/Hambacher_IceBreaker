@@ -5,7 +5,7 @@ Biergarten - Beer Garden
 BMW - BMW 
 Bratwurst - Bratwurst
 Brot - Bread
-Dirndel - Dirndl
+Dirndel - A feminine dress that originated in the Alps
 Doener - Doner
 Eltz - Eltz Castle
 Flughafen - airport
@@ -16,9 +16,9 @@ Klimaanlage - Air conditioner
 Lederhose - Leather Pants
 Mehlhase - Flour Bunny
 Porsche - Porsche
-Raesfeld - Raesfeld 
-Rammstein - Rammstein 
-Ratskeller - Ratskeller
+Raesfeld - City in the district of Broken, in the state of North Rhine-Westphalia  
+Rammstein - band, or "ramming stone" 
+Ratskeller - Bar in the basement of city hall
 Schloss - Lock
 wettbewerbsfaehig - Competitive
 
